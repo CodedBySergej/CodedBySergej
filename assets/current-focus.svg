@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7C3AED"/><stop offset="100%" stop-color="#00E5FF"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="1198" height="388" rx="24" fill="#0D1117" stroke="#30363D"/>
+<text x="600" y="56" text-anchor="middle" fill="#F8FAFC" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800">Current Focus</text>
+<text x="600" y="88" text-anchor="middle" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="15">Deepening my current skills while progressing across the complete Frontend, Backend and Full-Stack path</text>
+<rect x="48" y="112" width="1104" height="4" rx="2" fill="url(#accent)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <g>
+    <rect x="45" y="145" width="345" height="190" rx="18" fill="#111827" stroke="#C2410C"/>
+    <text x="217.5" y="180" text-anchor="middle" fill="#FB923C" font-size="14" font-weight="800">CURRENT CORE</text>
+    <text x="217.5" y="222" text-anchor="middle" fill="#FFFFFF" font-size="23" font-weight="800">HTML • CSS • JavaScript</text>
+    <text x="217.5" y="260" text-anchor="middle" fill="#CBD5E1" font-size="15">Strengthening code quality, structure,</text>
+    <text x="217.5" y="284" text-anchor="middle" fill="#CBD5E1" font-size="15">responsive design and practical projects.</text>
+  </g>
+  <g>
+    <rect x="427.5" y="145" width="345" height="190" rx="18" fill="#111827" stroke="#4338CA"/>
+    <text x="600" y="180" text-anchor="middle" fill="#A5B4FC" font-size="14" font-weight="800">FRONTEND PATH</text>
+    <text x="600" y="222" text-anchor="middle" fill="#FFFFFF" font-size="23" font-weight="800">Complete Frontend Development</text>
+    <text x="600" y="260" text-anchor="middle" fill="#CBD5E1" font-size="15">Expanding through the broader frontend</text>
+    <text x="600" y="284" text-anchor="middle" fill="#CBD5E1" font-size="15">ecosystem, tooling and application structure.</text>
+  </g>
+  <g>
+    <rect x="810" y="145" width="345" height="190" rx="18" fill="#111827" stroke="#0E7490"/>
+    <text x="982.5" y="180" text-anchor="middle" fill="#67E8F9" font-size="14" font-weight="800">BACKEND + FULL-STACK</text>
+    <text x="982.5" y="222" text-anchor="middle" fill="#FFFFFF" font-size="23" font-weight="800">Backend &amp; Full-Stack Development</text>
+    <text x="982.5" y="260" text-anchor="middle" fill="#CBD5E1" font-size="15">Backend systems, data, integration, APIs</text>
+    <text x="982.5" y="284" text-anchor="middle" fill="#CBD5E1" font-size="15">and complete end-to-end applications.</text>
+  </g>
+</g>
+</svg>
