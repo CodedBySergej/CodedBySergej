@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/banner-top.gif" width="100%" alt="Coded By Sergej">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FF00CC,35:9D00FF,65:0066FF,100:00FFFF&text=Coded%20By%20Sergej&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Frontend%20%2B%20Backend%20Development&descSize=20&descAlignY=60"
+    width="100%"
+    alt="Coded By Sergej - Frontend and Backend Development"
+  />
 </p>
 
 <p align="center">
@@ -101,14 +105,6 @@ Projects are where theory becomes practical experience.
 
 I use real projects to strengthen my current skills, learn new concepts and build a portfolio that shows my development over time.
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%"><strong>Project 01</strong><br><sub>Coming soon</sub></td>
-    <td align="center" width="33%"><strong>Project 02</strong><br><sub>Coming soon</sub></td>
-    <td align="center" width="33%"><strong>Project 03</strong><br><sub>Coming soon</sub></td>
-  </tr>
-</table>
-
 ---
 
 ## 🎓 Education & Training
@@ -133,5 +129,9 @@ I use real projects to strengthen my current skills, learn new concepts and buil
 </p>
 
 <p align="center">
-  <img src="./assets/banner-bottom.gif" width="100%" alt="Coded By Sergej">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:FF00FF,45:7C3AED,70:00BFFF,100:00FFFF"
+    width="100%"
+    alt=""
+  />
 </p>
