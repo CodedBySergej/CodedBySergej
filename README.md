@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Coded by Sergej">
+  <img src="./assets/banner-top.gif" width="100%" alt="Coded By Sergej">
 </p>
 
 <p align="center">
@@ -51,8 +51,9 @@ My goal is to understand and build complete applications — from interface and 
 </p>
 
 <p align="center">
-  My current priority is to strengthen <strong>HTML, CSS and JavaScript</strong>, complete the broader frontend path,
-  and progressively expand into <strong>backend development and Full-Stack application development</strong>.
+  My current priority is to deepen <strong>HTML, CSS and JavaScript</strong>,
+  progress through the complete frontend path and expand into
+  <strong>backend and Full-Stack development</strong>.
 </p>
 
 ---
@@ -68,8 +69,6 @@ My goal is to understand and build complete applications — from interface and 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodedBySergej&theme=tokyonight" height="180" alt="Repositories per language">
 </p>
 
-<p align="center"><sub>Statistics are generated from activity and repositories on GitHub.</sub></p>
-
 ---
 
 ## 🧭 How I Work
@@ -78,7 +77,7 @@ My goal is to understand and build complete applications — from interface and 
   <img src="./assets/workflow.svg" width="100%" alt="Understand plan build debug improve repeat">
 </p>
 
-<p align="center"><strong>I want to understand why code works — not just copy a solution.</strong></p>
+<p align="center"><strong>Understand the code. Build with purpose. Improve continuously.</strong></p>
 <p align="center">Clean code • Logical structure • Responsive interfaces • Debugging • Maintainability • Continuous improvement</p>
 
 ---
@@ -91,7 +90,7 @@ My goal is to understand and build complete applications — from interface and 
 
 <p align="center">
   This roadmap represents the direction of my development — from my current frontend foundation
-  toward complete, production-ready Full-Stack applications.
+  toward complete Full-Stack applications.
 </p>
 
 ---
@@ -133,7 +132,6 @@ I use real projects to strengthen my current skills, learn new concepts and buil
   </a>
 </p>
 
----
-
-<h2 align="center">&lt;/&gt; Coded by Sergej</h2>
-<p align="center"><strong>Learning. Building. Improving.</strong><br>Frontend • Backend • Full-Stack</p>
+<p align="center">
+  <img src="./assets/banner-bottom.gif" width="100%" alt="Coded By Sergej">
+</p>
